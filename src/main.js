@@ -1,24 +1,21 @@
-import './index.css';
-import javascriptLogo from './javascript.svg';
-import viteLogo from '/vite.svg';
-import { setupCounter } from './counter.js';
+const game = document.getElementById('game');
 
-document.querySelector('#app').innerHTML = `
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="${viteLogo}" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
-    </a>
-    <h1>Hello Vite!</h1>
-    <div class="card">
-      <button id="counter" type="button"></button>
-    </div>
-    <p class="read-the-docs">
-      Click on the Vite logo to learn more
-    </p>
-  </div>
-`
+function renderHome() {
+  game.innerHTML = `
+    <h1>JS RPG Battle!</h1>
+    <button id="start-btn">Start Game</button>
+  `;
+  document.getElementById('start-btn').onclick = renderBattle;
+}
 
-setupCounter(document.querySelector('#counter'))
+// For demo: basic stub for battle screen
+function renderBattle() {
+  game.innerHTML = `
+    <h2>Battle Time!</h2>
+    <button id="attack-btn">Attack</button>
+    <button id="back-btn">Back</button>
+  `;
+  document.getElementById('back-btn').onclick = renderHome;
+}
+
+renderHome();
