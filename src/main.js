@@ -3,7 +3,7 @@ const game = document.getElementById('game');
 function renderHome() {
   game.innerHTML = `
     <h1>Mabel's Strike Force</h1>
-    <button id="start-btn">Enter</button>
+    <button id="start-btn">Begin</button>
   `;
   document.getElementById('start-btn').onclick = renderBattle;
 }
