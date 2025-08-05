@@ -2,7 +2,7 @@ const game = document.getElementById('game');
 
 function renderHome() {
   game.innerHTML = `
-    <h1>JS RPG Battle!</h1>
+    <h1>Strike Force</h1>
     <button id="start-btn">Start Game</button>
   `;
   document.getElementById('start-btn').onclick = renderBattle;
