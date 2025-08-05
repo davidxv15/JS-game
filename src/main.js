@@ -2,8 +2,8 @@ const game = document.getElementById('game');
 
 function renderHome() {
   game.innerHTML = `
-    <h1>Strike Force</h1>
-    <button id="start-btn">Start Game</button>
+    <h1>Mabel's Strike Force</h1>
+    <button id="start-btn">Enter</button>
   `;
   document.getElementById('start-btn').onclick = renderBattle;
 }
