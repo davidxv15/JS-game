@@ -6,9 +6,9 @@ let selectedHero = null;
 
 // Hero data (expand later)
 const heroes = [
-  { name: "Code Falcon", hp: 100, attack: 15 },
-  { name: "Null Pointer", hp: 90, attack: 20 },
-  { name: "JS Ninja", hp: 80, attack: 25 }
+  { name: "The Falconer", hp: 100, attack: 15 },
+  { name: "Knight Armor", hp: 90, attack: 20 },
+  { name: "KillDozer", hp: 80, attack: 25 }
 ];
 
 // 1. Enter Screen
