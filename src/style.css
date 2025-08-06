@@ -82,7 +82,7 @@ body {
   }
   .node.cleared {
     background: var(--mintLeaf);
-    color: #222;
+    color: var(--cool-gray);
     border: 2px solid #34d399;
   }
   .node.current {
