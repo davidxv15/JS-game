@@ -81,7 +81,7 @@ body {
     transition: background 0.2s;
   }
   .node.cleared {
-    background: #34d399;
+    background: var(--mintLeaf);
     color: #222;
     border: 2px solid #34d399;
   }
