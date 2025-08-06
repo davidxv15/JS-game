@@ -88,6 +88,6 @@ body {
   .node.current {
     background: var(--mint);
     color: #222;
-    border: 2px solid #eab308;
+    border: 2px solid #ea9708;
   }
   
