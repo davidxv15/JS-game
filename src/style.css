@@ -33,7 +33,7 @@
   }
 
 body {
-    background: #222;
+    background: var(--primary);
     color: #eee;
     font-family: sans-serif;
     margin: 0;
