@@ -25,6 +25,7 @@
     /*  Fonts (use w/ font-family) */
     --font-primary: "Outfit", sans-serif;
     --font-secondary: "Fira Sans", sans-serif;
+    --font-third: "Barlow", sans-serif;
   
     /*  Utility Variables */
     --radius: 8px;
