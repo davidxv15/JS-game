@@ -1,3 +1,6 @@
+import { simulateBattle, enemies } from './battle.js';
+
+
 const game = document.getElementById('game');
 
 const NUM_NODES = 10; // Number of battles/nodes
