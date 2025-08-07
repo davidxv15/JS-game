@@ -11,7 +11,9 @@ let selectedHero = null;
 const heroes = [
   { name: "The Falconer", hp: 100, attack: 15 },
   { name: "Knight Armor", hp: 90, attack: 20 },
-  { name: "KillDozer", hp: 80, attack: 25 }
+  { name: "KillDozer", hp: 80, attack: 30 },
+  { name: "Bug-a-bago", hp: 80, attack: 20 },
+  { name: "BillDozer", hp: 200, attack: 5 }
 ];
 
 // 1. Enter Screen
