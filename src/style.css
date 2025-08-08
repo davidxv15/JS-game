@@ -39,7 +39,7 @@
 body {
     background: var(--primary);
     color: var(--cool-gray);
-    font-family: sans-serif;
+    font-family: var(--font-fourth);
     margin: 0;
     min-height: 100vh;
     display: flex;
