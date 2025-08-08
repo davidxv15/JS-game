@@ -93,3 +93,6 @@ body {
     border: 2px solid #ea9708;
   }
   
+  .hero-name {
+    font-size: 1rem;
+  }
