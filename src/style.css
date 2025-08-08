@@ -101,4 +101,5 @@ body {
   #hero-list button {
     background-color: var(--mintLeaf);
     text-align: right;
+    margin-left: 6rem;
   }
