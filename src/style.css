@@ -99,6 +99,10 @@ body {
     flex-wrap: wrap;
     background-color: var(--primary);
   }
+
+  .hero-card {
+    background-color: rgb(80, 40, 10);
+  }
   
   .hero-name {
     font-family: var(--font-fourth);
