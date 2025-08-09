@@ -53,7 +53,7 @@ function renderCharacterSelectScreen() {
     <h2>Select Your Hero</h2>
     <div id="hero-list">
       ${heroes.map((hero, i) => `
-        <div style="margin:5px 0; padding:5px; background:#444; border-radius:10px;">
+        <div class="hero-card">
           <div class="hero-name">${hero.name}</div> (HP: ${hero.hp}, ATK: ${hero.attack})
           <button class="button" data-index="${i}">Select</button>
         </div>
