@@ -102,6 +102,7 @@ body {
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
+    background-color: var(--primary);
   }
 
   #hero-list button {
