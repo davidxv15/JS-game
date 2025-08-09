@@ -102,7 +102,7 @@ body {
   }
 
   .hero-card {
-    background-color: rgb(80, 40, 10);
+    background-color: var(--brown);
   }
   
   .hero-name {
