@@ -103,6 +103,7 @@ body {
 
   .hero-card {
     background-color: var(--brown);
+    border-radius: var(--radius);
   }
   
   .hero-name {
