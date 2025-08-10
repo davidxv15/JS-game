@@ -14,6 +14,7 @@ const heroes = [
   { name: "Bigchief", hp: 80, attack: 30 },
   { name: "KillDozer", hp: 70, attack: 40 },
   { name: "Hank Hill", hp: 60, attack: 30 },
+  { name: "John Redcorn", hp: 90, attack: 90 },
   { name: "Bug-a-bago", hp: 80, attack: 20 },
   { name: "BillDozer", hp: 200, attack: 5 }
 ];
