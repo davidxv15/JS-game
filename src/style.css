@@ -114,6 +114,7 @@ body {
 
   #hero-list button {
     background-color: wheat;
+    color: var(--cool-gray);
     text-align: right;
     margin-left: 2rem;
     width: 4rem;
