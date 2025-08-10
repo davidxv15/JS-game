@@ -113,7 +113,7 @@ body {
   }
 
   #hero-list button {
-    background-color: var(--mintLeaf);
+    background-color: wheat;
     text-align: right;
     margin-left: 6rem;
   }
