@@ -19,6 +19,7 @@ const heroes = [
   { name: "BillDozer", hp: 200, attack: 5 },
   { name: "Rusty Shackelford", hp: 45, attack: 100 },
   { name: "Thatherton", hp: 50, attack: 50 },
+  { name: "Khan", hp: 80, attack: 80 }
 ];
 
 // 1. Enter Screen
