@@ -9,7 +9,7 @@ let selectedHero = null;
 
 // Hero data (expand later)
 const heroes = [
-  { name: "The Falconer", hp: 100, attack: 15 },
+  { name: "Twi Gboi", hp: 10, attack: 1 },
   { name: "Knight Armor", hp: 90, attack: 20 },
   { name: "Bigchief", hp: 80, attack: 30 },
   { name: "KillDozer", hp: 70, attack: 40 },
