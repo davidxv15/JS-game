@@ -16,8 +16,9 @@ const heroes = [
   { name: "Hank Hill", hp: 60, attack: 30 },
   { name: "John Redcorn", hp: 90, attack: 90 },
   { name: "Bug-a-bago", hp: 80, attack: 20 },
-  { name: "BillDozer", hp: 200, attack: 5 }
-  { name: "Rusty Shackelford", hp: 45, attack: 100 }
+  { name: "BillDozer", hp: 200, attack: 5 },
+  { name: "Rusty Shackelford", hp: 45, attack: 100 },
+  { name: "Thatherton", hp: 50, attack: 50 },
 ];
 
 // 1. Enter Screen
