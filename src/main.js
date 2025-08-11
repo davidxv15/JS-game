@@ -16,7 +16,7 @@ const heroes = [
   { name: "John Redcorn", hp: 90, attack: 90 },
   { name: "Joe Jack", hp: 80, attack: 20 },
   { name: "BillDozer", hp: 100, attack: 5 },
-  { name: "Twi Gboi", hp: 10, attack: 1 },
+  { name: "Twi Gboi", hp: 80, attack: 1 },
   { name: "Rusty", hp: 45, attack: 100 },
   { name: "Thatherton", hp: 50, attack: 50 },
   { name: "Khan", hp: 80, attack: 80 },
