@@ -9,14 +9,14 @@ let selectedHero = null;
 
 // Hero data (expand later)
 const heroes = [
-  { name: "Twi Gboi", hp: 10, attack: 1 },
+  { name: "Hank Hill", hp: 60, attack: 30 },
   { name: "Knight Armor", hp: 90, attack: 20 },
   { name: "Bigchief", hp: 80, attack: 30 },
   { name: "KillDozer", hp: 70, attack: 40 },
-  { name: "Hank Hill", hp: 60, attack: 30 },
   { name: "John Redcorn", hp: 90, attack: 90 },
   { name: "Bug-a-bago", hp: 80, attack: 20 },
   { name: "BillDozer", hp: 100, attack: 5 },
+  { name: "Twi Gboi", hp: 10, attack: 1 },
   { name: "Rusty Shackelford", hp: 45, attack: 100 },
   { name: "Thatherton", hp: 50, attack: 50 },
   { name: "Khan", hp: 80, attack: 80 },
