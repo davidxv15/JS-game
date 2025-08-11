@@ -118,6 +118,7 @@ body {
     color: var(--cool-gray);
     text-align: right;
     margin-left: 2rem;
-    width: 4rem;
+    width: fit-content;
     height: 1.5rem;
+  
   }
