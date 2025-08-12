@@ -117,7 +117,7 @@ body {
   #hero-list button {
     display: inline-block;
     background-color: wheat;
-    font-size: 1rem;
+    font-size: .6rem;
     color: var(--cool-gray);
     text-align: right;
     margin-left: 2rem;
