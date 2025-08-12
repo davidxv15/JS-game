@@ -105,6 +105,7 @@ body {
     background-color: var(--brown);
     border-radius: var(--radius);
     width: 8rem;
+    font-size: .7rem;
   }
   
   .hero-name {
