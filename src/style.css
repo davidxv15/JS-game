@@ -121,7 +121,7 @@ body {
     color: var(--primary);
     text-align: right;
     margin-left: 2rem;
-    width: fit-content;
+    width: 2rem;
     height: .8rem;
   
   }
