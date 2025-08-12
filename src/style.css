@@ -118,7 +118,7 @@ body {
     display: inline-block;
     background-color: wheat;
     font-size: .6rem;
-    color: var(--cool-gray);
+    color: var(--primary);
     text-align: right;
     margin-left: 2rem;
     width: fit-content;
