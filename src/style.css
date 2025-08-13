@@ -119,7 +119,7 @@ body {
 
   #hero-list button {
     display: inline-block;
-    background-color:#98ffec;
+    background-color: var(--mint);
     border-radius: 3px;
     font-size: .6rem;
     color: var(--primary);
