@@ -103,7 +103,7 @@ body {
 
   .hero-card {
     background-color: var(--brown);
-    border-radius: var(--radius);
+    border-radius: 5px;
     width: 7rem;
     height: 10rem;
     font-family: var(--font-fourth);
