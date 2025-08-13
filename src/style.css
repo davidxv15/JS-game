@@ -105,6 +105,7 @@ body {
     background-color: var(--brown);
     border-radius: var(--radius);
     width: 7rem;
+    height: 10rem;
     font-family: var(--font-fourth);
     font-size: .7rem;
   }
