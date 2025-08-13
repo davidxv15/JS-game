@@ -120,6 +120,7 @@ body {
   #hero-list button {
     display: inline-block;
     background-color: wheat;
+    border-radius: 3px;
     font-size: .6rem;
     color: var(--primary);
     text-align: center;
