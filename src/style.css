@@ -104,7 +104,7 @@ body {
   .hero-card {
     background-color: var(--brown);
     border-radius: var(--radius);
-    width: 8rem;
+    width: 7rem;
     font-family: var(--font-fourth);
     font-size: .7rem;
   }
